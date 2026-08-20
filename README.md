@@ -1,4 +1,4 @@
 # portfolio-showcase-and-misc-work-samples-and-projects
 
-You can find more earlier samples of my code here on Exercism.
+In addition to the code samples available here in this repo, you can also find earlier samples of my code on Exercism by clicking here on this link.
 https://exercism.org/profiles/JLearner1417
