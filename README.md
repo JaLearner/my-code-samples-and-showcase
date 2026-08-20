@@ -1,2 +1,4 @@
 # portfolio-showcase-and-misc-work-samples-and-projects
-Samples of my work and projects, etc. :) Always striving to learn and try new things!
+
+You can find more earlier samples of my code on Exercism.
+https://exercism.org/profiles/JLearner1417
