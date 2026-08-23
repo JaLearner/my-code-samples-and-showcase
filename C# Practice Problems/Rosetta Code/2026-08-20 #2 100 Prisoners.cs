@@ -4,8 +4,8 @@ using System.Security.Cryptography;
 namespace _100_Prisoners_Rosetta_Code
 {
     //Finished on August/20/2026
-
-    /*
+    
+    /*https://rosettacode.org/wiki/100_prisoners
      * The Problem
 100 prisoners are individually numbered 1 to 100
 A room having a cupboard of 100 opaque drawers numbered 1 to 100, that cannot be seen from outside.
